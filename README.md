@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Latha M, currently studying computer science engineering 
+Ambitious CSE Student | Seeking Internship Opportunities .Highly enthusiastic data scientist with proven skills in computer vision, artificial intelligence, machine learning, deep learning, and data analytics. Eager to apply expertise and passion to challenging projects.
 
 
 ## 🌐 Socials:
